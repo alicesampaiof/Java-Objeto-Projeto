@@ -1,3 +1,4 @@
+
 import java.util.Locale; // importa a classe do Locale
 import java.util.Scanner; // entrada de dados 
 
